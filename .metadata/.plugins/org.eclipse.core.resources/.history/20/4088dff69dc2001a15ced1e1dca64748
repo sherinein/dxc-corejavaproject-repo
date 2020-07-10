@@ -1,0 +1,17 @@
+package com.dxc.service;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.dxc.model.Employee;
+
+public class EmployeeService {
+	ArrayList<Employee> emplist;
+	public Employee register(Employee emp, Scanner s) {
+		
+		return null;
+	}
+	
+	
+
+}

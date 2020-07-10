@@ -1,0 +1,31 @@
+package com.dxc;
+
+import java.util.Scanner;
+
+import com.dxc.model.Employee;
+import com.dxc.service.EmployeeService;
+
+public class Main {
+
+	public static void main(String[] args) {
+		EmployeeService service=new EmployeeService();
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter the number of employee to register");
+		int noOfEmp=Integer.parseInt(s.nextLine());
+		Employee emp=new Employee();
+			boolean result=service.register(emp,s,noOfEmp);
+			if(result) {
+				service.display();
+				System.out.println("All the employee is registered successfully");
+			}
+			else
+				System.out.println("Employee is not registed");
+			
+			
+			
+			
+		
+
+	}
+
+}

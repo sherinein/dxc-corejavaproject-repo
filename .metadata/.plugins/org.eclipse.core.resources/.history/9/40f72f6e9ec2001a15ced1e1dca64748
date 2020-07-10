@@ -1,0 +1,29 @@
+package com.dxc.service;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.dxc.model.Employee;
+
+public class EmployeeService {
+	
+	private ArrayList<Employee> emplist;
+	
+	public ArrayList<Employee> register(Employee emp, Scanner s,int noOfEmp) {
+		for(int i=0;i<noOfEmp;i++) {
+			
+		System.out.println("Enter the emp id ");
+		emp.setEmpId(Integer.parseInt(s.nextLine()));
+		System.out.println("Enter the emp name");
+		emp.setEmpName(s.nextLine());
+		System.out.println("Enter the emp salary");
+		emp.setEmpSalary(Double.parseDouble(s.nextLine()));
+		emplist.add(emp);
+		
+		}
+		return emplist;
+	}
+	
+	
+
+}
