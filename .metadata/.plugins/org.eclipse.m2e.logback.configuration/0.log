@@ -1,1 +1,624 @@
 2020-07-10 16:25:12,308 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-11 10:43:59,623 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-13 10:54:36,378 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-13 10:59:05,752 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml
+2020-07-13 10:59:15,024 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 10:59:18,227 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/main/java
+2020-07-13 10:59:18,241 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/test/java
+2020-07-13 10:59:18,624 [Worker-20: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2020-07-13 10:59:20,510 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 10:59:20,510 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 10:59:20,514 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 10:59:20,515 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:00:01,923 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:00:01,923 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:00:01,924 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:00:01,925 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:07:31,529 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:07:32,685 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:07:32,685 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:07:32,688 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:07:32,688 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:07:34,373 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:07:34,374 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:07:34,376 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:07:34,376 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:33:52,645 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:33:52,647 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:33:52,648 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:33:52,649 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:34:05,879 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:05,880 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:34:05,881 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:05,882 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:34:30,769 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:30,769 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:34:30,771 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:30,771 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:34:44,626 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:44,627 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:34:44,634 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:34:44,635 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:35:03,472 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:03,472 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:35:03,473 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:03,474 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:35:14,200 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:14,201 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:35:14,202 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:14,202 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:35:42,302 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:42,302 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:35:42,304 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:42,304 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:35:53,597 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:53,597 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:35:53,602 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:35:53,603 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:36:01,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:01,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:36:01,904 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:01,905 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:36:38,195 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:38,196 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:36:38,197 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:38,197 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:36:52,163 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:52,163 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:36:52,165 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:36:52,165 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:37:13,514 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:37:13,514 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:37:13,540 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:37:13,542 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:39:11,364 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:11,364 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:39:11,365 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:11,365 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:39:18,631 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:18,631 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:39:18,633 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:18,633 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:39:23,987 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:23,987 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:39:23,987 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:23,987 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:39:38,932 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:38,932 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:39:38,938 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:39:38,938 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:40:39,791 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:40:39,791 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:40:39,792 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:40:39,792 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:41:11,642 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:41:11,642 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:41:11,643 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:41:11,644 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:41:27,512 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:41:27,513 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:41:27,514 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:41:27,514 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:42:18,579 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:42:18,579 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:42:18,581 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:42:18,581 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:43:01,519 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:43:01,519 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:43:01,519 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:43:01,519 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:45:24,064 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:24,065 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:45:24,068 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:24,069 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:45:53,205 [Worker-35: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:45:53,461 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:53,461 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:45:53,464 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:53,464 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:45:54,193 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:54,193 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:45:54,194 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:45:54,194 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:46:40,393 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:46:41,267 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:46:41,267 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:46:41,269 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:46:41,270 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:46:41,904 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:46:41,905 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:46:41,906 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:46:41,906 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:47:37,144 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:47:37,144 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:47:37,145 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:47:37,145 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:50:41,207 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 11:50:41,728 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:50:41,931 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/main/java
+2020-07-13 11:50:41,932 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/test/java
+2020-07-13 11:50:42,082 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-13 11:50:42,492 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:50:42,493 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:50:42,494 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:50:42,494 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:52:20,907 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:52:21,030 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:52:21,030 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:52:21,032 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:52:21,032 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 11:53:29,512 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 11:53:29,906 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 11:53:30,050 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/main/java
+2020-07-13 11:53:30,050 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-maven-project/src/test/java
+2020-07-13 11:53:30,203 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-13 11:53:30,499 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:53:30,499 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 11:53:30,500 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 11:53:30,501 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:01:18,187 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:01:18,187 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:01:18,188 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:01:18,188 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:18:21,908 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\dxc-corejava-workspace\employee-maven-project\pom.xml
+2020-07-13 12:18:22,117 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:18:22,240 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/main/java
+2020-07-13 12:18:22,245 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/test/java
+2020-07-13 12:18:22,326 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-07-13 12:18:22,730 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:18:22,730 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:18:22,730 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:18:22,730 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:19:19,332 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:19:19,332 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:19:19,333 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:19:19,333 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:25:01,946 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 12:25:02,406 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:25:02,500 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 12:25:02,769 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/main/java
+2020-07-13 12:25:02,769 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/test/java
+2020-07-13 12:25:02,841 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-13 12:25:03,013 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:03,013 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:25:03,015 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:03,015 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:25:03,404 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:03,404 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:25:03,405 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:03,405 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:25:13,881 [Worker-53: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:25:13,926 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:13,926 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:25:13,926 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:13,926 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:25:24,556 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 12:25:24,987 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:25:25,090 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 12:25:25,357 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/main/java
+2020-07-13 12:25:25,358 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/test/java
+2020-07-13 12:25:25,473 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-13 12:25:25,680 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:25,681 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:25:25,683 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:25,684 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:25:26,025 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:26,026 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:25:26,026 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:25:26,026 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:26:51,838 [Worker-54: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:26:51,906 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:26:51,906 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:26:51,908 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:26:51,909 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:26:53,271 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:26:53,271 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:26:53,271 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:26:53,272 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:27:07,462 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 12:27:07,981 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-13 12:27:08,171 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 12:27:08,362 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/main/java
+2020-07-13 12:27:08,363 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee-maven-project/src/test/java
+2020-07-13 12:27:08,453 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-13 12:27:08,692 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:08,693 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:27:08,694 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:08,694 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:27:09,004 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:09,004 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:27:09,005 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:09,005 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:27:31,237 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:31,237 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:27:31,237 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:31,237 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:27:51,626 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:51,627 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:27:51,627 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:51,628 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:27:58,615 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:58,616 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:27:58,617 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:27:58,618 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:28:10,633 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:10,633 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:28:10,634 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:10,634 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:28:23,383 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:23,383 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:28:23,384 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:23,384 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:28:42,058 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:42,058 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:28:42,062 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:42,062 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:28:59,853 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:59,853 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:28:59,854 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:28:59,854 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:29:11,817 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:29:11,817 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:29:11,818 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:29:11,818 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:29:24,162 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:29:24,163 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:29:24,163 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:29:24,164 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:30:27,046 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:30:27,046 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:30:27,047 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:30:27,048 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:34:05,156 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:34:05,156 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:34:05,159 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:34:05,159 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:34:17,854 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:34:17,855 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:34:17,856 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:34:17,856 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:37:44,066 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:37:44,066 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:37:44,066 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:37:44,066 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:37:50,942 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:37:50,943 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:37:50,949 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:37:50,949 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:45:26,551 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 12:45:26,589 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-13 12:45:26,639 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:26,639 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:45:26,640 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:26,640 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:45:27,931 [Worker-68: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-13 12:45:27,935 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:27,935 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:45:27,936 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:27,936 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:45:37,429 [Worker-59: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-13 12:45:37,435 [Worker-59: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-13 12:45:37,476 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:37,476 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:45:37,477 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:45:37,477 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:47:22,128 [Worker-69: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-13 12:47:22,130 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:47:22,130 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:47:22,131 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:47:22,131 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:47:23,190 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:47:23,191 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:47:23,191 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:47:23,191 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 12:48:36,255 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:48:36,255 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:48:36,256 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:48:36,256 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:49:19,649 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:49:19,649 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 12:49:19,650 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:49:19,650 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 12:49:20,709 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:49:20,709 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-13 12:49:20,710 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 12:49:20,710 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-13 13:22:43,095 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 13:22:43,096 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-13 13:22:43,097 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 13:22:43,097 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-13 16:41:55,676 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-13 16:41:57,292 [Worker-7: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-13 16:43:32,837 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.mavendeom:maven-demo-project:1.0-SNAPSHOT @ D:\demomavenproject\maven-demo-project\pom.xml.
+2020-07-13 16:43:36,302 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo-project/src/main/java
+2020-07-13 16:43:36,310 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo-project/src/test/java
+2020-07-13 16:43:36,831 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2020-07-13 16:43:38,618 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:43:38,618 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\main\resources
+2020-07-13 16:43:38,621 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:43:38,621 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\test\resources
+2020-07-13 16:44:40,678 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.mavendeom:maven-demo-project:1.0-SNAPSHOT @ D:\demomavenproject\maven-demo-project\pom.xml.
+2020-07-13 16:44:41,035 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:44:41,035 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\main\resources
+2020-07-13 16:44:41,038 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:44:41,038 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\test\resources
+2020-07-13 16:45:35,577 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-13 16:45:36,286 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.mavendeom:maven-demo-project:1.0-SNAPSHOT @ D:\demomavenproject\maven-demo-project\pom.xml.
+2020-07-13 16:45:36,555 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo-project/src/main/java
+2020-07-13 16:45:36,556 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo-project/src/test/java
+2020-07-13 16:45:36,822 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-07-13 16:45:37,112 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:45:37,113 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\main\resources
+2020-07-13 16:45:37,115 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-13 16:45:37,116 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\demomavenproject\maven-demo-project\src\test\resources
+2020-07-16 09:14:38,609 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-16 09:14:57,110 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 09:14:57,110 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-16 09:14:57,113 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 09:14:57,113 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-16 11:38:54,721 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml
+2020-07-16 11:38:58,930 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:38:59,260 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/main/java
+2020-07-16 11:38:59,269 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/test/java
+2020-07-16 11:38:59,399 [Worker-65: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-07-16 11:38:59,862 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:38:59,863 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:38:59,864 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:38:59,864 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:39:06,896 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:39:06,896 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:39:06,898 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:39:06,898 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:39:39,661 [Worker-65: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:39:39,808 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:39:39,809 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:39:39,810 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:39:39,811 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:40:39,208 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:40:39,292 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:40:39,293 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:40:39,299 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:40:39,300 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:40:41,914 [Worker-68: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:40:41,980 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:40:41,980 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:40:41,981 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:40:41,981 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:41:02,823 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-16 11:41:03,227 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-16 11:41:03,347 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:41:03,623 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/main/java
+2020-07-16 11:41:03,624 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/test/java
+2020-07-16 11:41:03,939 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-07-16 11:41:04,227 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:41:04,227 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:41:04,229 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:41:04,229 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:41:04,601 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:41:04,601 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-16 11:41:04,603 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:41:04,603 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-16 11:43:00,665 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:43:00,825 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:43:00,825 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:43:00,827 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:43:00,827 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:43:02,408 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:43:02,408 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:43:02,410 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:43:02,411 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:45:05,139 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-16 11:45:05,688 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\employee-maven-project\pom.xml.
+2020-07-16 11:45:05,805 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-16 11:45:06,030 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/main/java
+2020-07-16 11:45:06,031 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emploee-jdbc-mavencorejavaproject/src/test/java
+2020-07-16 11:45:06,141 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-07-16 11:45:06,354 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:45:06,355 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-16 11:45:06,357 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:45:06,357 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-16 11:45:06,658 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:45:06,659 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\main\resources
+2020-07-16 11:45:06,660 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 11:45:06,661 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\employee-maven-project\src\test\resources
+2020-07-18 10:38:06,254 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-18 10:38:12,900 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 10:38:12,901 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-18 10:38:12,904 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 10:38:12,905 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-18 12:05:02,171 [Worker-48: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\pom.xml.
+2020-07-18 12:05:02,204 [Worker-48: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:05:02,383 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:02,383 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:05:02,384 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:02,384 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:05:02,431 [Worker-48: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:05:02,434 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:02,434 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-18 12:05:02,435 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:02,435 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-18 12:05:03,592 [Worker-49: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:05:03,599 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:03,599 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:05:03,601 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:03,601 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:05:19,723 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:19,723 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:05:19,724 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:19,724 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:05:37,792 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:37,792 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:05:37,794 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:05:37,794 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:06:51,916 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:06:51,916 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:06:51,917 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:06:51,917 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:07:06,821 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:07:06,822 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:07:06,823 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:07:06,823 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:07:38,113 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:07:38,113 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:07:38,119 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:07:38,119 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:08:01,298 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:01,298 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:08:01,300 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:01,300 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:08:10,882 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:10,882 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:08:10,883 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:10,883 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:08:58,035 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:58,035 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:08:58,036 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:08:58,036 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:10:00,327 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:00,327 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:10:00,328 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:00,328 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:10:06,250 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:06,250 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:10:06,250 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:06,251 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:10:32,684 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:32,684 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:10:32,684 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:32,684 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:10:37,514 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:37,514 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:10:37,515 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:10:37,515 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:11:19,151 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:11:19,151 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:11:19,153 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:11:19,153 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:11:22,176 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:11:22,177 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:11:22,178 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:11:22,178 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:12:01,226 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:01,226 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:12:01,227 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:01,227 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:12:39,550 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:39,550 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:12:39,551 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:39,551 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:12:44,402 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:44,402 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:12:44,403 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:44,403 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:12:48,349 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:48,349 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:12:48,350 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:12:48,350 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:13:34,070 [Worker-52: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\pom.xml.
+2020-07-18 12:13:34,087 [Worker-52: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:34,127 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:34,127 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:13:34,128 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:34,129 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:13:35,312 [Worker-44: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:35,318 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:35,318 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:13:35,319 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:35,320 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:13:46,749 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-18 12:13:47,143 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-maven-project\pom.xml.
+2020-07-18 12:13:47,150 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:47,220 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.shopping:shoppingcart-maven-project:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\pom.xml.
+2020-07-18 12:13:47,225 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:47,301 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.dxc.employee:emploee-jdbc-mavencorejavaproject:0.0.1-SNAPSHOT @ D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\pom.xml.
+2020-07-18 12:13:47,563 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-dao-maven-project/src/main/java
+2020-07-18 12:13:47,564 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shoppingcart-dao-maven-project/src/test/java
+2020-07-18 12:13:47,678 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-18 12:13:47,833 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:47,833 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-18 12:13:47,835 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:47,835 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-18 12:13:47,909 [Worker-56: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:47,913 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:47,913 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:13:47,914 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:47,914 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:13:48,151 [Worker-56: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/employee-maven-project: org.dxc.employee:employee-maven-project:0.0.1-SNAPSHOT with classifier  to /employee-maven-project/target/classes
+2020-07-18 12:13:48,155 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:48,155 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\main\resources
+2020-07-18 12:13:48,156 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:13:48,156 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-maven-project\src\test\resources
+2020-07-18 12:14:16,791 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:16,791 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:14:16,792 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:16,792 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:14:27,012 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:27,013 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:14:27,014 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:27,014 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:14:43,432 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:43,432 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:14:43,432 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:43,432 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:14:50,554 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:50,554 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:14:50,555 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:14:50,555 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:15:14,222 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:15:14,223 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:15:14,224 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:15:14,224 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:15:48,992 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:15:48,992 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:15:48,993 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:15:48,993 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:16:05,223 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:05,223 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:16:05,224 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:05,224 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:16:22,814 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:22,814 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:16:22,815 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:22,815 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:16:35,101 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:35,101 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:16:35,102 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:16:35,102 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:18:01,097 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:01,097 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:18:01,098 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:01,098 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:18:14,139 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:14,139 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:18:14,140 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:14,140 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:18:35,614 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:35,614 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:18:35,614 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:35,614 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:18:47,425 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:47,426 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:18:47,427 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:18:47,428 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:19:14,714 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:19:14,714 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:19:14,714 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:19:14,714 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 12:19:27,406 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:19:27,406 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 12:19:27,407 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 12:19:27,407 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-18 16:18:41,981 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:18:41,983 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\main\resources
+2020-07-18 16:18:41,985 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:18:41,985 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\shoppingcart-dao-maven-project\src\test\resources
+2020-07-20 09:18:55,168 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-20 09:19:13,674 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 09:19:13,675 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-20 09:19:13,679 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 09:19:13,679 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources
+2020-07-20 15:59:36,432 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-20 15:59:43,731 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:59:43,732 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\main\resources
+2020-07-20 15:59:43,734 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:59:43,734 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dxc-corejava-workspace\emploee-jdbc-mavencorejavaproject\src\test\resources

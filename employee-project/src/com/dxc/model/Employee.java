@@ -2,12 +2,15 @@ package com.dxc.model;
 
 public class Employee {
 	// properties -3
-	private int empId;
+	private int empId;  // Encapsulation
 	private String empName;
 	private double empSalary;
 	public Employee() {
 		super();
 		// TODO Auto-generated constructor stub
+	}
+	public Employee(int a) {
+		System.out.println("value came from child class constructor "+a);
 	}
 	public Employee(int empId, String empName, double empSalary) {
 		super();
